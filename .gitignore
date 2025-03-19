@@ -1,0 +1,7 @@
+# build output
+build
+CMakeFiles
+.mxproject
+build.ninja
+CMakeCache.txt
+compile_commands.json
