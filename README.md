@@ -1,9 +1,3 @@
-春ロボ２０２５
-＃サーボ
-＃エア尻
-＃ネオピクセル
-
-＃基盤
-＃NHK2025 main Board
-＃Isolated Solenoid Board
-＃Talos Servo Board
+関東春ロボコン2025のHALプログラムです。
+サーボ、エアシリ、ネオピクセルの制御が実装されています。
+ほとんど@keio-robot-yuriが書いてくれました
